@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">クレーンコントローラー</string>
+    <string name="bluetooth_button">Bluetoothの接続</string>
+</resources>
